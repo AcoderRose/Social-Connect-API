@@ -40,7 +40,9 @@ To install Social-Connect-API:
 
 [Link to Walkthrough Video](https://watch.screencastify.com/v/c2oVt8fJBTwp76o6QZqC)
 
-![Screenshot of Social-Connect-API]()
+![Screenshot of Social-Connect-API's 'Users' Test on Insomnia](./images/social-connect-api-user-test-screenshot.png)
+
+![Screenshot of Social-Connect-API's 'Thoughts' Test on Insomnia](./images/social-connect-api-thoughts-test-screenshot.png)
 
 ## Credits
 
