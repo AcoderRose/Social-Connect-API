@@ -38,7 +38,7 @@ To install Social-Connect-API:
 
 - Start the application, in the terminal by executing the following command: `npm run dev`
 
-[Link to Walk Through Video]()
+[Link to Walkthrough Video](https://watch.screencastify.com/v/c2oVt8fJBTwp76o6QZqC)
 
 ![Screenshot of Social-Connect-API]()
 
